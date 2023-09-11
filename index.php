@@ -16,7 +16,7 @@
                 <label class="form-label">
                     <h1>Pesquisa de Usuários</h1>
                 </label>
-                <input name="nome" type="text" class="form-control" placeholder="Pesquisar nome...">
+                <input name="nome" type="text" class="form-control" placeholder="Pesquisar nome..." required>
             </div>
 
             <button type="submit" class="btn btn-primary">Pesquisar</button>
